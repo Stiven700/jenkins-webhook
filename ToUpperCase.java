@@ -5,7 +5,7 @@ public class ToUpperCase {
             String output = input.toUpperCase();
             System.out.println(output);
         } else {
-            System.out.println("Por favor proporcione un texto :D ");
+            System.out.println("Prueba del WebHook");
         }
     }
 }
